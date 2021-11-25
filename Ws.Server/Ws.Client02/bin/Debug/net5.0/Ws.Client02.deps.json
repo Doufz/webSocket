@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ws.Client02/1.0.0": {
+        "runtime": {
+          "Ws.Client02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ws.Client02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

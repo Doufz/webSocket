@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "084aa85e-31a9-4679-ad32-d090d92b004f": {
+      "ProjectGuid": "084aa85e-31a9-4679-ad32-d090d92b004f",
+      "DisplayName": "Ws.Server",
+      "ColorIndex": 0
+    },
+    "90aef8e9-28c4-4072-adbc-f9d42926e849": {
+      "ProjectGuid": "90aef8e9-28c4-4072-adbc-f9d42926e849",
+      "DisplayName": "Ws.Client",
+      "ColorIndex": 1
+    },
+    "eb01d993-af84-48dd-ad89-11632936ec26": {
+      "ProjectGuid": "eb01d993-af84-48dd-ad89-11632936ec26",
+      "DisplayName": "Ws.Client02",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

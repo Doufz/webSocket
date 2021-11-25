@@ -1,0 +1,16 @@
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\bin\Debug\net5.0\Ws.Client.exe
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\bin\Debug\net5.0\Ws.Client.deps.json
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\bin\Debug\net5.0\Ws.Client.runtimeconfig.json
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\bin\Debug\net5.0\Ws.Client.runtimeconfig.dev.json
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\bin\Debug\net5.0\Ws.Client.dll
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\bin\Debug\net5.0\ref\Ws.Client.dll
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\bin\Debug\net5.0\Ws.Client.pdb
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\obj\Debug\net5.0\Ws.Client.csproj.AssemblyReference.cache
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\obj\Debug\net5.0\Ws.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\obj\Debug\net5.0\Ws.Client.AssemblyInfoInputs.cache
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\obj\Debug\net5.0\Ws.Client.AssemblyInfo.cs
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\obj\Debug\net5.0\Ws.Client.csproj.CoreCompileInputs.cache
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\obj\Debug\net5.0\Ws.Client.dll
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\obj\Debug\net5.0\ref\Ws.Client.dll
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\obj\Debug\net5.0\Ws.Client.pdb
+C:\Users\agaph\Desktop\WebSocket\Ws.Server\Ws.Client\obj\Debug\net5.0\Ws.Client.genruntimeconfig.cache
